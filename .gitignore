@@ -1,0 +1,9 @@
+/data  
+/eval 
+/log
+temp*
+/utils/fast_align
+/checkpoint
+*__pycache__*
+/baselines
+/finalResult
