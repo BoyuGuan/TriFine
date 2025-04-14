@@ -9,7 +9,7 @@ We appreciate your patience! The dataset construction details and model codes ar
 
 ## Data Access and Usage
 
-Due to commitments to reviewers regarding legal compliance and copyright concerns, we kindly request researchers interested in using the TriFine Dataset to apply by sending an email to guangboyu2022@ia.ac.cn. Your email must fulfill the following requirements:
+Due to commitments to reviewers regarding legal compliance and copyright concerns, we kindly request researchers interested in using the TriFine Dataset to apply by sending an email to guanboyu2022@ia.ac.cn. Your email must fulfill the following requirements:
 
 1. Sent from an email address ending with .edu.
 
