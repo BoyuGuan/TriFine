@@ -20,7 +20,7 @@ Due to commitments to reviewers regarding legal compliance and copyright concern
 Thank you for your understanding and cooperation!
 
 ## Citation
-If you want to cite our paper, please use the following BibTex entries:
+If our work has been helpful to your research, we kindly invite you to cite it using the following BibTeX format.
 ```BibTex
 @inproceedings{guan-etal-2025-trifine,
     title = "{T}ri{F}ine: A Large-Scale Dataset of Vision-Audio-Subtitle for Tri-Modal Machine Translation and Benchmark with Fine-Grained Annotated Tags",
